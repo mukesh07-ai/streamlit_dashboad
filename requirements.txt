@@ -2,5 +2,4 @@ streamlit
 pandas
 datetime
 Image
-plotly.express
-plotly.graph_objects
+plotly
